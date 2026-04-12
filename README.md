@@ -1,4 +1,4 @@
-# 🎬 Antigravity: A Cinematic Portfolio Experience
+# 🎬A Cinematic Portfolio Experience
 
 Welcome to the digital home of my video editing journey. This isn't just a website; it's a curated, single-page experience designed to showcase visual storytelling the way it's meant to be seen—fluid, dynamic, and completely immersive. 
 
