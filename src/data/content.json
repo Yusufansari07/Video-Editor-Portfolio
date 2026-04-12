@@ -1,0 +1,52 @@
+{
+    "bio": {
+        "name": "Alex Editor",
+        "title": "Professional Video Editor & Colorist",
+        "description": "Crafting compelling visual stories for brands, artists, and agencies. Specializing in commercials, music videos, and narrative films with over 10 years of industry experience.",
+        "email": "hello@example.com",
+        "location": "Los Angeles, CA"
+    },
+    "projects": [
+        {
+            "id": "cinematic-commercial-1",
+            "title": "Neon Nights - Brand Anthem",
+            "client": "Luminous Media",
+            "vimeoUrl": "https://vimeo.com/22439234",
+            "thumbnailUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1025&auto=format&fit=crop",
+            "roles": [
+                "Remote Editor",
+                "Color Grading"
+            ],
+            "year": 2024,
+            "description": "A high-energy brand anthem commercial cut to a custom composed synth-wave track."
+        },
+        {
+            "id": "music-video-1",
+            "title": "Echoes - The Midnight",
+            "client": "The Midnight",
+            "vimeoUrl": "https://vimeo.com/76979871",
+            "thumbnailUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=1170&auto=format&fit=crop",
+            "roles": [
+                "Editor"
+            ],
+            "year": 2023,
+            "description": "Official music video blending retro aesthetics with modern cinematic storytelling."
+        }
+    ],
+    "testimonials": [
+        {
+            "id": "t1",
+            "name": "Sarah Jenkins",
+            "role": "Creative Director",
+            "company": "Visionary Studios",
+            "text": "Alex's pacing and rhythm is unparalleled. They took our raw footage and turned it into an absolute masterpiece that drove our campaign's success."
+        },
+        {
+            "id": "t2",
+            "name": "Marcus Chen",
+            "role": "Band Manager",
+            "company": "Indie Records",
+            "text": "Working with Alex was incredibly smooth. They understood the artist's vision instantly and delivered revisions practically overnight."
+        }
+    ]
+}
